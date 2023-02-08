@@ -1,0 +1,22 @@
+{
+  "name": "tool-image-extract",
+  "version": "1.0.0",
+  "description": "extract image from url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunrosen/tool-image-extract.git"
+  },
+  "keywords": [
+    "image-tool"
+  ],
+  "author": "hungp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunrosen/tool-image-extract/issues"
+  },
+  "homepage": "https://github.com/gunrosen/tool-image-extract#readme"
+}
