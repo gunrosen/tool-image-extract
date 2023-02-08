@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/gunrosen/tool-image-extract/issues"
   },
-  "homepage": "https://github.com/gunrosen/tool-image-extract#readme"
+  "homepage": "https://github.com/gunrosen/tool-image-extract#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1310.0",
+    "puppeteer": "^19.6.3"
+  }
 }
